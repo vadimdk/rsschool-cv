@@ -1,1 +1,0 @@
-# vadimdk-rsschool-cv
