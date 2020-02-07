@@ -3,13 +3,11 @@
 
 1. **Vadym Kostiuk**
 2. **Email:** *vadim.dk81@gmail.com*
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+3. Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Developed an ecommerce webapp, customer web portal, documentary launch website, and donations webapp for a local charity. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.
+
+4. **Skills:** HTML5, CSS, Sass, JS, React, Git, Galp, Webpack.
+5. **Code examples** *https://github.com/vadimdk/cursor-oop-timer*
+6. **Education:** Cursor Education courses, Lviv, Ukraine.
+7. **English:**  Intermediate, one year speaking  experience during student's practice in Danmark.
+ 
+
