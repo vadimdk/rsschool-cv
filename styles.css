@@ -1,0 +1,28 @@
+body {
+  width: 1024px;
+}
+
+header {
+  display: flex;
+  width: 1020px;
+  height: 200px;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: tan;
+}
+
+img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 4px solid steelblue;
+}
+
+.main-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.bold-text {
+  font-weight: bold;
+}
